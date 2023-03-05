@@ -63,7 +63,7 @@ import androidx.compose.ui.tooling.preview.Preview
  * Notice that TodoList, TutorialBlock, & PlatoAndroidTheme are files
  * in this project we write and maintain.
  */
-// vvv
+// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 import com.example.platoandroid.ui.TodoList
 import com.example.platoandroid.ui.TutorialBlock
 import com.example.platoandroid.ui.theme.PlatoAndroidTheme
@@ -100,10 +100,10 @@ class MainActivity : ComponentActivity() {
              * it's just so you can leave helpful notes like this one :)
              */
             // YOUR TEST AREA vvv
-
+Text(text="android is better than apple")
             // ^^^^^ add above ^^^^^
             // ^^^ YOUR TEST AREA
-          }
+        }
         }
       }
     }
